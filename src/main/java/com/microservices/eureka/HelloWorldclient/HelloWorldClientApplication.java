@@ -11,7 +11,6 @@ public class HelloWorldClientApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello world client side started ");
-		
 		SpringApplication.run(HelloWorldClientApplication.class, args);
 	}
 }
